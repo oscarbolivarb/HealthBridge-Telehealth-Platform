@@ -26,7 +26,7 @@ Is responsible for developing the application, manage the Github repository and 
 Is responsible for designing the overall structure of the HealthBridge Telehealth Platform and making decisions that support security, scalability and maintainability.
 
 ### QA Analyst 
-Is responsible for creating test plans, testing performing, identifying any issues and verifying that the system meets the project requirements.
+Is responsible for creating test plans, testing performance, identifying any issues and verifying that the system meets the project requirements.
 
 ### UX Designer
 Is responsible for creating a user friendly interface that is easy to use for patients and well as all the healthcare providers.
