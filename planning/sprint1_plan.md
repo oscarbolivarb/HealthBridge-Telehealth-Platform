@@ -9,7 +9,7 @@ The goal for the sprint 1 is to develop the basic features needed for patients t
 ## Backlog Items Selected
 
 -	Scheduling patient appointment
--	-	Online patients forms 
+- Online patients forms 
 -	Provider appointment schedule 
 -	User account and role management
   
