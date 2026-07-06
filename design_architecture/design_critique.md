@@ -12,7 +12,7 @@ One strong point of this architecture is that it supports scalability. For examp
 
 Another strength is maintainability because the developers can update and improve on service without making any major changes to the rest of the system. However, the limitation is that the platform depends on external systems such as EHR software and API calendars, so if one of these services becomes unavailable it could affect some of the platform’s features.
 
-There are also other risks and ethical considerations to consider. For example, since the platform stores patient’s sensitive information, then it must follow HIPAA requirements as well as protect data through encryption, secure authentication and role base control. 
+There are also other risks and ethical considerations to consider. For example, since the platform stores patient’s sensitive information, then it must follow HIPAA requirements as well as protect data through encryption, secure authentication and role base access control. 
 
 Accessibility is another area to consider, because the platform is designed for elderly patients and users with visual and motor impairments. So features such as screen reader support, keyboard navigation and simple form help make the platform more inclusion.
 
