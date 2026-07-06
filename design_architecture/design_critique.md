@@ -10,7 +10,7 @@ The integration layer manages the communications with the API calendar and the E
 
 One strong point of this architecture is that it supports scalability. For example, the appointment scheduling service, patient intake service and the notification service can be scaled independently as the demand increases. This will allow the system to handle more users without having the entire platform to be extended. 
 
-Another strength is maintainability because the developers can update and improve on service without making any major changes to the rest of the system. However, the limitation is that the platform depends on external systems such as HER software and API calendars, so if one of these services becomes unavailable it could affect some of the platform’s features.
+Another strength is maintainability because the developers can update and improve on service without making any major changes to the rest of the system. However, the limitation is that the platform depends on external systems such as EHR software and API calendars, so if one of these services becomes unavailable it could affect some of the platform’s features.
 
 There are also other risks and ethical considerations to consider. For example, since the platform stores patient’s sensitive information, then it must follow HIPAA requirements as well as protect data through encryption, secure authentication and role base control. 
 
