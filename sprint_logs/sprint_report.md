@@ -24,8 +24,8 @@ The sprint board was used to track the progress of each task throughout the To D
 
 ## Commit Evidence 
 
-| Commit ID	Commit | Message |
-| ---------------- | ------- |
+| Commit ID	| Commit Message |
+| --------- | -------------- |
 | b1947e8	| Create sprint_report.md |
 | cb15dd9	| Create leadership_reflection.md |
 | 40dd7e6	| Create communication_reflection.md |
