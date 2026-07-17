@@ -1,6 +1,6 @@
-Sprint Report 
+# Sprint Report 
 
-Sprint Goal
+## Sprint Goal
 
 Complete the final sprint documentation for the HealthBridge Telehealth Platform by creating the sprint report, leadership reflection, communication reflections and updating the GitHub repository.
 Tasks Planned vs. Completed
@@ -14,14 +14,15 @@ Tasks Planned vs. Completed
 | Review the GitHub repository structure |	Completed |
 | Upload all required files	| Completed |
 
-Sprint Board 
+## Sprint Board 
+
 Sprint Board Screenshot
 <img width="975" height="751" alt="image" src="https://github.com/user-attachments/assets/27d89e4a-d4a0-4cbc-b7ff-36bf58b68570" />
 
 The sprint board was used to track the progress of each task throughout the To Do, In Progress and Done columns. The screenshot below shows the completed sprint board:
  
 
-Commit Evidence 
+## Commit Evidence 
 
 | Commit ID	Commit | Message |
 | ---------------- | ------- |
