@@ -1,7 +1,10 @@
 Sprint Report 
+
 Sprint Goal
+
 Complete the final sprint documentation for the HealthBridge Telehealth Platform by creating the sprint report, leadership reflection, communication reflections and updating the GitHub repository.
 Tasks Planned vs. Completed
+
 |Planned Task	| Status |
 |------------ | ------ |
 | Write the sprint_report.md |	Completed | 
