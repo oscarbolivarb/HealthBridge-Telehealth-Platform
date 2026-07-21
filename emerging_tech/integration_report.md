@@ -1,4 +1,4 @@
-# Integrated Report
+# Integration Report
 
 ## Emerging Technology: GitHub Actions (CI/CD)
 
@@ -27,7 +27,9 @@ The evidence includes:
 - A Git commit showing that the workflow was added.
 - A Git commit showing that the integration report was added.
 
-One benefit of GitHub Action is that it saves time because some tasks were completed automatically, it also helped reduce mistakes that happen when it is done manually. One challenge was learning how to create a workflow using a YAML file.
+One benefit of GitHub Actions is that it saves time because some tasks were completed automatically, it also helped reduce mistakes that happen when it is done manually. One challenge was learning how to create a workflow using a YAML file.
+
+## Ethical Reflection
 
 An ethical concern regarding GitHub Action is being able to protect sensitive information, since the healthcare platform has patient’s information that should not be included in the workflow files or logs. At the same time, any passwords or API keys should be stored using GitHub Secrets instead of being written in the code directly. 
 
