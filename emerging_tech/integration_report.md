@@ -23,11 +23,11 @@ The following tasks were completed:
 
 The evidence includes:
 
-<img width="3427" height="812" alt="image" src="https://github.com/user-attachments/assets/6483bdf5-8bd7-4bfa-b537-2b0df1d0a0e1" />
-
 - A screenshot showing the GitHub Actions workflow completed successfully.
 - Git commit showing that the GitHub Actions workflow was added.
 - Git commit showing that the integration report was added.
+
+<img width="3427" height="812" alt="image" src="https://github.com/user-attachments/assets/6483bdf5-8bd7-4bfa-b537-2b0df1d0a0e1" />
 
 One benefit of GitHub Actions is that it saves time because some tasks were completed automatically, it also helped reduce mistakes that happen when it is done manually. One challenge was learning how to create a workflow using a YAML file.
 
